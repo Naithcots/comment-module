@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "content": "I genuinely think that Codewell's community is AMAZING. It's just starting out but the templates on there are amazing.👀",
+    "author": { "nickname": "adamsdavid", "avatarUrl": "/User Avatar.png" },
+    "votes": 2,
+    "created": "20 hours ago",
+    "replies": [3]
+  },
+  {
+    "id": 2,
+    "content": "Thanks for making this, super helpful",
+    "author": { "nickname": "andrew231", "avatarUrl": "/User Avatar-3.png" },
+    "votes": 2,
+    "created": "20 hours ago",
+    "replies": null
+  },
+  {
+    "id": 3,
+    "content": "I agree. I've been coding really well (pun intended) ever since I started practicing on their templates hehe.",
+    "author": { "nickname": "saramay", "avatarUrl": "/User Avatar-1.png" },
+    "votes": 4,
+    "created": "16 hours ago",
+    "replies": [4]
+  },
+  {
+    "id": 4,
+    "content": "Okay, this comment wins.",
+    "author": { "nickname": "jessica21", "avatarUrl": "/User Avatar-2.png" },
+    "votes": 5,
+    "created": "14 hours ago",
+    "replies": null
+  }
+]
